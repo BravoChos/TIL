@@ -10,7 +10,7 @@ I will learn at least one thing per day.
 ## CONTENT
 
 - JAN
-  - [WEEK1](https://github.com/DeepLearnerSC/TIL/2022/01_JAN/WEEK01.md)
+  - [WEEK1](https://github.com/DeepLearnerSC/TIL/blob/main/2022/01_JAN/WEEK01.md)
 
 <br/>
 <br/>
