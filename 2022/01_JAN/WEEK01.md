@@ -9,6 +9,8 @@
 | CASE              | I have read the RN tutorial book occidently, and found why immutability is important in react. I knew why but I could have known earlier if I have read the tutorial right when I bought the textbook in 2019.                                                                                                                                                                                                                                                                                |
 | WHAT I HAVE LEARN | I should be more diligent in 2022, and try to finish readng textbooks ASAP. The reason why react should keep immutability is because of the way of rendering with optimization. In react, when parent component has to update, then it's children component has to rerender. And to know when it should rerender is when there is a change in Props. Therefore, in order to compare previous object and upcoming object, we need to make sure objects that we are comparing are not the same. |
 
+<br>
+
 # 01/04 Tuesday 21:28pm <br/>
 
 ### TITLE : Error Handling in React Native <br/>
@@ -23,4 +25,24 @@
 Reference
 
 https://elazizi.com/handling-errors-in-react-native-a-complete-guide
+
 https://reactjs.org/docs/error-boundaries.html
+
+<br>
+
+# 01/05 Wednesday 16:49pm <br/>
+
+### TITLE : Trying Pressable Component <br/>
+
+### TYPE: TIL
+
+| <!-- -->          | <!-- -->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CASE              | Learn and practice "Pressable" component with awesome tutorial! and amazied by its feature!!                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| WHAT I HAVE LEARN | Pressable is a Core Component wrapper that can detect various stages of press interactions on any of its defined children. The Pressable component has so many useful props such as onPress, onLongPress, onPressIn, onPressOut, etc. <br/> Property "android_ripple" enables the Android ripple effect and configures its properties.<br/> In Andorid, we need to make sure ripple effect is hidden. So when adding 'overflow' property to the wrapper, try to write codes such as Platform.select({andorid:"hidden"}). |
+
+Reference
+
+https://reactnative.dev/docs/pressable
+
+https://morioh.com/p/5caf3eec8e1a
