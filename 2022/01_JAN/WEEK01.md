@@ -60,3 +60,17 @@ https://morioh.com/p/5caf3eec8e1a
 | CASE              | Learn how to create overlay using react-native-navigation                                                                     |
 |                   |
 | WHAT I HAVE LEARN | Created the custom useOverlay hook to layout content on top of all other layout hierarchies, while fitting the screen bounds. |
+
+<br>
+
+# 01/06 Friday 22:44pm <br/>
+
+### TITLE : How to design bug in Mobile <br/>
+
+### TYPE: TIL
+
+| <!-- -->          | <!-- -->                                                                                                 |
+| ----------------- | -------------------------------------------------------------------------------------------------------- |
+| CASE              | create errorFallback UI                                                                                  |
+|                   |
+| WHAT I HAVE LEARN | It's been long overdue making UI component whenever the app fails. Add 'try again' and 'go back' button. |
